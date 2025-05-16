@@ -1,6 +1,10 @@
-# Keiner Sandoval - Portafolio Web
+# Mateo Sandoval - Portafolio Web
 
 Bienvenido a mi portafolio web personal. Aquí encontrarás mi perfil profesional, habilidades técnicas, educación y certificaciones en desarrollo de software y tecnologías digitales.
+
+Este portafolio incluye perfil, habilidades técnicas, certificaciones y enlaces de contacto, con diseño moderno e interactivo.
+
+
 
 ---
 
